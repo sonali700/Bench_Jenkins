@@ -21,7 +21,7 @@ public class SampleTestCase {
 		if(Launching_browser.contains("Chrome"))
 		{
 		
-		System.setProperty("webdriver.chrome.driver","D:\\Downloads\\Softwares\\browserDrivers\\chromedriver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\Users\sonali\Downloads\chromedriver_win32\\chromedriver.exe");
 
 		driver = new ChromeDriver();
 		}
